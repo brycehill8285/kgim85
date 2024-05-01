@@ -1,9 +1,9 @@
 /*
-* Made by: UndercoverGoose
-* Version: 1.9
+* Made by: Uncle scam
+* Version: 6.8
 */
 (function(){
-  console.debug("%cRunning Gimkit Hack V1.9", "color:#FF5555;font-size:20px;");
+  console.debug("%cyou have sucess", "color:#FF5555;font-size:20px;");
   
   // Function/Variables to simplify the creation, appending, and getting of objects/elements
   let cN = "hckcntnt";
